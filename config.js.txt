@@ -1,0 +1,2 @@
+// config.js
+export const GEMINI_API_KEY = AIzaSyCPBgsGKTXWFfNnwyrF9BEY1E7k7ydUteo;
